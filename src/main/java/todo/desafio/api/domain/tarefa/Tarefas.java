@@ -1,4 +1,4 @@
-package todo.desafio.api.dominio;
+package todo.desafio.api.domain.tarefa;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

@@ -1,4 +1,4 @@
-package todo.desafio.api.dominio;
+package todo.desafio.api.domain.tarefa;
 
 public record DadosListagemTarefas(Long id, String nome, String descricao, Status status) {
 
